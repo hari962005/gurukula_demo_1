@@ -1,0 +1,17 @@
+{
+  "short_name": "Gurukula",
+  "name": "Shubham Karoti Maitreyi Gurukula — Child Journey",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FDFBF7",
+  "theme_color": "#1B4332",
+  "display": "standalone",
+  "orientation": "portrait"
+}
